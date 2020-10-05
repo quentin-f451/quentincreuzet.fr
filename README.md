@@ -9,6 +9,7 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## On the web
 
+- [DUUU Radio](https://duuuradio.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Figure Figure](https://figurefigure.fr) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Théâtre de Gennevilliers](https://theatredegennevilliers.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Fitzpatrick](https://fitzpatrick.gallery) – Design by [Marietta Eugster Studio](https://mariettaeugster.com), [Loan Bottex](https://loanbottex.tumblr.com) and Quentin Creuzet. Code by F451 (Domitille Debret & Quentin Creuzet).
