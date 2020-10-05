@@ -1,7 +1,7 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _January 2021_.
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _February 2021_.
 
 ## News
 
