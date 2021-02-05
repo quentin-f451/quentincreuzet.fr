@@ -5,11 +5,13 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## News
 
+- [The Art of Critique](https://theartofcritique.rietveldacademie.nl) has been recently featured on [Hoverstat.es](https://www.hoverstat.es/features/the-art-of-critique).
 - **OUT NOW** – My article _Graphic crusades. Minimalism in the age of neoliberalism._ is available in French and English in the new issue of [Revue PLI](https://pli-editions.com).
 
 ## On the web
 
 - [Festival Parallèle 11](https://festival11.plateformeparallele.com/programme) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Flavien Prioreau](https://flavienprioreau.com) – Design by [République Studio](https://www.republique.studio). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [manual.vision](https://manual.vision) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [DUUU Radio](https://duuuradio.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Figure Figure](https://figurefigure.fr) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451 (Domitille Debret & Quentin Creuzet).
@@ -38,7 +40,7 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 - [Jean Lambert](http://www.jeanlambert.com) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Benoît Lalloz](https://benoitlalloz.com) – Design by [Alice Gavin Services](http://alicegavin.xyz). Code by [Alice Gavin Services](http://alicegavin.xyz) with Quentin Creuzet.
 - [Marietta Eugster Studio](https://mariettaeugster.com) – Design by [Marietta Eugster Studio](https://mariettaeugster.com). Code by F451 (Domitille Debret & Quentin Creuzet).
-- [Points Communs]() – Design by [baldinger•vu-huu](http://www.baldingervuhuu.com). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Points Communs](https://points-communs.com) – Design by [baldinger•vu-huu](http://www.baldingervuhuu.com). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Twin Brains](https://twinbrainsfilms.com) – Design by [Alice Gavin Services](http://alicegavin.xyz). Code by [Alice Gavin Services](http://alicegavin.xyz) with Quentin Creuzet.
 - [BCube](https://bcube.fr) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Ships vs Cars](http://www.shipsvscars.info) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
