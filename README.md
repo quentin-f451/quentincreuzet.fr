@@ -1,11 +1,11 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _April 2021_.
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _June 2021_.
 
 ## News
 
-- [The Art of Critique](https://theartofcritique.rietveldacademie.nl) has been recently featured on [Hoverstat.es](https://www.hoverstat.es/features/the-art-of-critique).
+- [The Art of Critique](https://theartofcritique.rietveldacademie.nl) has been recently featured on [Hoverstat.es](https://www.hoverstat.es/features/the-art-of-critique) and in [PAGE Magazine 04.21](https://page-online.de).
 - **OUT NOW** – My article _Graphic crusades. Minimalism in the age of neoliberalism._ is available in French and English in the new issue of [Revue PLI](https://pli-editions.com).
 
 ## On the web
@@ -14,6 +14,7 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 - [Flavien Prioreau](https://flavienprioreau.com) – Design by [République Studio](https://www.republique.studio). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [manual.vision](https://manual.vision) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [DUUU Radio](https://duuuradio.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Amy Angold](https://amyangold.com) – Design by [République Studio](https://www.republique.studio). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Figure Figure](https://figurefigure.fr) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Théâtre de Gennevilliers](https://theatredegennevilliers.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Fitzpatrick](https://fitzpatrick.gallery) – Design by [Marietta Eugster Studio](https://mariettaeugster.com), [Loan Bottex](https://loanbottex.tumblr.com) and Quentin Creuzet. Code by F451 (Domitille Debret & Quentin Creuzet).
