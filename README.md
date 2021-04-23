@@ -5,11 +5,13 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## News
 
+- The [Exhibition Format Editor](http://exhibition-format-editor.v-a-c.org) we designed and developed with Domitille Debret is being used by the residents of the V–A–C Zattere, Venice for the exhibition [Non-Extractive Architecture](https://v-a-c.org/en/non-extractive-architecture) as part of the 17th Venice Architecture Biennale.
 - [The Art of Critique](https://theartofcritique.rietveldacademie.nl) has been recently featured on [Hoverstat.es](https://www.hoverstat.es/features/the-art-of-critique) and in [PAGE Magazine 04.21](https://page-online.de).
 - **OUT NOW** – My article _Graphic crusades. Minimalism in the age of neoliberalism._ is available in French and English in the new issue of [Revue PLI](https://pli-editions.com).
 
 ## On the web
 
+- [Exhibition Format Editor](http://exhibition-format-editor.v-a-c.org) – Design and code by F451 (Domitille Debret & Quentin Creuzet). 
 - [Festival Parallèle 11](https://festival11.plateformeparallele.com/programme) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Flavien Prioreau](https://flavienprioreau.com) – Design by [République Studio](https://www.republique.studio). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [manual.vision](https://manual.vision) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
