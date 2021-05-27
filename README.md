@@ -11,10 +11,14 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## On the web
 
+- [Mutations, Interdisciplinary Thematic Residency 2020-2021](http://www.mutationen.akademie-solitude.de) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
+- [Brunet Saunier Architecture](https://brunet-saunier.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Exhibition Format Editor](http://exhibition-format-editor.v-a-c.org) – Design and code by F451 (Domitille Debret & Quentin Creuzet). 
 - [Festival Parallèle 11](https://festival11.plateformeparallele.com/programme) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Uncover Archive](https://uncoverarchive.com) – Design by [Beau Bertens](http://beaubertens.nl). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Flavien Prioreau](https://flavienprioreau.com) – Design by [République Studio](https://www.republique.studio). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [manual.vision](https://manual.vision) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
+- [Arthur Simonini](https://arthursimonini.com) – Design by [République Studio](https://www.republique.studio). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [DUUU Radio](https://duuuradio.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Amy Angold](https://amyangold.com) – Design by [République Studio](https://www.republique.studio). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Figure Figure](https://figurefigure.fr) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451 (Domitille Debret & Quentin Creuzet).
