@@ -11,9 +11,10 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## On the web
 
+- [La Junqueira](https://lajunqueira.org) – Design by [Bottex Elsensohn](https://www.instagram.com/bottexelsensohn) and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Mutations, Interdisciplinary Thematic Residency 2020-2021](http://www.mutationen.akademie-solitude.de) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Brunet Saunier Architecture](https://brunet-saunier.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
-- [Exhibition Format Editor](http://exhibition-format-editor.v-a-c.org) – Design and code by F451 (Domitille Debret & Quentin Creuzet). 
+- [Exhibition Format Editor](http://exhibition-format-editor.v-a-c.org) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Festival Parallèle 11](https://festival11.plateformeparallele.com/programme) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Uncover Archive](https://uncoverarchive.com) – Design by [Beau Bertens](http://beaubertens.nl). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Flavien Prioreau](https://flavienprioreau.com) – Design by [République Studio](https://www.republique.studio). Code by F451 (Domitille Debret & Quentin Creuzet).
