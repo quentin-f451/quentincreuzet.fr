@@ -11,6 +11,8 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## On the web
 
+- [Miista](https://www.miista.com) – Design by [Bureau Antoine Roux](https://bureauantoineroux.com) and F451 (Domitille Debret & Quentin Creuzet). Code by [Ask Phill](https://www.askphill.com).
+- [Censored](https://censoredmagazine.fr) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [La Junqueira](https://lajunqueira.org) – Design by [Bottex Elsensohn](https://www.instagram.com/bottexelsensohn) and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Mutations, Interdisciplinary Thematic Residency 2020-2021](http://www.mutationen.akademie-solitude.de) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Brunet Saunier Architecture](https://brunet-saunier.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
