@@ -1,18 +1,20 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _January 2022_.
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _February 2022_.
 
 ## News
 
 - The [Exhibition Format Editor](http://exhibition-format-editor.v-a-c.org) we designed and developed with Domitille Debret is being used by the residents of the V–A–C Zattere, Venice for the exhibition [Non-Extractive Architecture](https://v-a-c.org/en/non-extractive-architecture) as part of the 17th Venice Architecture Biennale.
-- [The Art of Critique](https://theartofcritique.rietveldacademie.nl) has been recently featured on [Hoverstat.es](https://www.hoverstat.es/features/the-art-of-critique) and in [PAGE Magazine 04.21](https://page-online.de).
 - **OUT NOW** – My article _Graphic crusades. Minimalism in the age of neoliberalism._ is available in French and English in the new issue of [Revue PLI](https://pli-editions.com).
 
 ## On the web
 
+- [Centre Wallonie Bruxelles](https://cwb.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Peter and Mathis](https://peterandmathis.net) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Miista](https://www.miista.com) – Design by [Bureau Antoine Roux](https://bureauantoineroux.com) and F451 (Domitille Debret & Quentin Creuzet). Code by [Ask Phill](https://www.askphill.com).
 - [Censored](https://censoredmagazine.fr) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
+- [World+](https://worldplus.fr) – Design by [Alice Gavin Services](http://alicegavin.xyz). Code by F451 (Domitille Debret & Quentin Creuzet) and [Kenji Luyeye](https://kenjiluyeye.com).
 - [La Junqueira](https://lajunqueira.org) – Design by [Bottex Elsensohn](https://www.instagram.com/bottexelsensohn) and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Mutations, Interdisciplinary Thematic Residency 2020-2021](http://www.mutationen.akademie-solitude.de) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Brunet Saunier Architecture](https://brunet-saunier.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
@@ -35,6 +37,7 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 - [Companatico](https://companatico.com) – Design by [Alice Gavin Services](http://alicegavin.xyz). Code by [Alice Gavin Services](http://alicegavin.xyz) with Quentin Creuzet.
 - [Gräflings](https://grafling.org) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Kunstverein Wiesen](http://kunstverein-wiesen.de) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
+- [Salon Kennedy](http://salonkennedy.de) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Vantieghem Talebi](https://vantieghemtalebi.com) – Design by [Ludovic Balland Typography Cabinet](http://ludovic-balland.com). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Yie Kim](https://yiekim.com) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Marie Rime](https://marierime.com) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
