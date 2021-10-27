@@ -5,6 +5,7 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## News
 
+- The [Centre Wallonie Bruxelles](https://cwb.fr) website has been recently featured on [Hoverstat.es](https://www.hoverstat.es/features/centre-wallonie-bruxelles).
 - The [Exhibition Format Editor](http://exhibition-format-editor.v-a-c.org) we designed and developed with Domitille Debret is being used by the residents of the V–A–C Zattere, Venice for the exhibition [Non-Extractive Architecture](https://v-a-c.org/en/non-extractive-architecture) as part of the 17th Venice Architecture Biennale.
 - **OUT NOW** – My article _Graphic crusades. Minimalism in the age of neoliberalism._ is available in French and English in the new issue of [Revue PLI](https://pli-editions.com).
 
