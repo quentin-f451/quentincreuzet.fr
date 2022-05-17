@@ -1,24 +1,30 @@
 # Quentin Creuzet
 
-I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _May 2022_.
+I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _October 2022_.
 
 ## News
 
 - The [Centre Wallonie Bruxelles](https://cwb.fr) website has been recently featured on [Hoverstat.es](https://www.hoverstat.es/features/centre-wallonie-bruxelles).
 - The [Exhibition Format Editor](http://exhibition-format-editor.v-a-c.org) we designed and developed with Domitille Debret is being used by the residents of the V–A–C Zattere, Venice for the exhibition [Non-Extractive Architecture](https://v-a-c.org/en/non-extractive-architecture) as part of the 17th Venice Architecture Biennale.
-- **OUT NOW** – My article _Graphic crusades. Minimalism in the age of neoliberalism._ is available in French and English in the new issue of [Revue PLI](https://pli-editions.com).
 
 ## On the web
 
+- [OtherNetwork (BETA)](http://othernetwork.io) – Design and code by F451 (Domitille Debret & Quentin Creuzet), [Cookies](https://cookies.lol) and Geoffrey Oliaro.
+- [Concorde Architectes](https://concorde-a-u.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [BÉLArt](https://bel.art) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
+- [Collectiv](https://collectiv.paris) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Festival Parallèle 12](https://festival12.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Le Labo Store](https://lelabostore.com) – Design by Le Labo Store and F451. Code by F451 (Domitille Debret & Quentin Creuzet).
+- [IOR](https://i-o-r.online) – Design by [Area of Work](https://area-of.work). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Nikita Narayan](https://nikita-narayan.com) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Florian Braakman](https://florianbraakman.nl) – Design by [Samuel Pin](http://samuelpin.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [ElaineAlain](https://elainealain.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Shinkenchiku Residential Design Competition Archive](https://callforlostentries.com) – Design by [Studio Joost Grootens](https://www.joostgrootens.nl). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Centre Wallonie Bruxelles](https://cwb.fr) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Peter and Mathis](https://peterandmathis.net) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Miista](https://www.miista.com) – Design by [Bureau Antoine Roux](https://bureauantoineroux.com) and F451 (Domitille Debret & Quentin Creuzet). Code by [Ask Phill](https://www.askphill.com).
+- [Ella Bats](https://ella-bats.com) – Design by [Joanna Spadiliero](https://joanna-spadiliero.com). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Censored](https://censoredmagazine.fr) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [World+](https://worldplus.fr) – Design by [Alice Gavin Services](http://alicegavin.xyz). Code by F451 (Domitille Debret & Quentin Creuzet) and [Kenji Luyeye](https://kenjiluyeye.com).
 - [La Junqueira](https://lajunqueira.org) – Design by [Bottex Elsensohn](https://www.instagram.com/bottexelsensohn) and code by F451 (Domitille Debret & Quentin Creuzet).
