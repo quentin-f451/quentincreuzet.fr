@@ -1,7 +1,7 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _October 2022_.
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _November 2022_.
 
 ## News
 
@@ -12,8 +12,12 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 - [OtherNetwork (BETA)](http://othernetwork.io) – Design and code by F451 (Domitille Debret & Quentin Creuzet), [Cookies](https://cookies.lol) and Geoffrey Oliaro.
 - [Concorde Architectes](https://concorde-a-u.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Taymour Grahne Projects](https://taymourgrahne.com) – Design by [baldinger•vu-huu](http://www.baldingervuhuu.com). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [OFFSCREEN](https://offscreenparis.com) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Ndayé Kouagou](https://youngblackromantics.com) – Design by [Axel Pelletanche](https://axelpelletanche.com). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [BÉLArt](https://bel.art) – Design and code by F451 (Domitille Debret & Quentin Creuzet).
 - [Collectiv](https://collectiv.paris) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451 (Domitille Debret & Quentin Creuzet).
+- [Jean-Charles de Castelbajac](https://jeancharlesdecastelbajac.com) – Design by [Jean-Philippe Bretin](https://jeanphilippebretin.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Festival Parallèle 12](https://festival12.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451 (Domitille Debret & Quentin Creuzet).
 - [Le Labo Store](https://lelabostore.com) – Design by Le Labo Store and F451. Code by F451 (Domitille Debret & Quentin Creuzet).
 - [IOR](https://i-o-r.online) – Design by [Area of Work](https://area-of.work). Code by F451 (Domitille Debret & Quentin Creuzet).
