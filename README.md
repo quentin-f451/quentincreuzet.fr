@@ -8,6 +8,7 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 - [OtherNetwork (BETA)](https://othernetwork.io) – Design and code by F451, [Cookies](https://cookies.lol) and Geoffrey Oliaro.
 - [Galerie RDV](https://galerierdv.com) – Design and code by F451.
 - [OFFSCREEN](https://offscreenparis.com) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451.
+- [DAE Code of Conduct](https://codeofconduct.designacademy.nl) – Design and code by F451.
 - [Concorde Architectes](https://concorde-a-u.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Taymour Grahne Projects](https://taymourgrahne.com) – Design by [baldinger•vu-huu](http://www.baldingervuhuu.com). Code by F451.
 - [Bomma Galerie](https://bomma.fr/) – Design by [Bottex Elsensohn](https://bottexelsensohn.com). Code by F451.
