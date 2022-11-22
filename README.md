@@ -1,7 +1,7 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _March 2023_.
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _May 2023_.
 
 ## News
 
@@ -17,9 +17,11 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 - [Concorde Architectes](https://concorde-a-u.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Taymour Grahne Projects](https://taymourgrahne.com) – Design by [baldinger•vu-huu](http://www.baldingervuhuu.com). Code by F451.
 - [Bomma Galerie](https://bomma.fr/) – Design by [Bottex Elsensohn](https://bottexelsensohn.com). Code by F451.
+- [Groupe HLD](https://groupehld.com) – Design by [Zoo, designers graphiques](https://z-o-o.fr). Code by F451.
 - [RIZE Sounds](https://rize.cool) – Design by F451 and [Bottex Elsensohn](https://bottexelsensohn.com). Code by F451.
 - [Ndayé Kouagou](https://youngblackromantics.com) – Design by [Axel Pelletanche](https://axelpelletanche.com). Code by F451.
 - [BÉLArt](https://bel.art) – Design and code by F451.
+- [Studio Mimi](https://studio-mimi.com) – Design by [République Studio](https://www.republique.studio). Code by F451.
 - [Collectiv](https://collectiv.paris) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451.
 - [Jean-Charles de Castelbajac](https://jeancharlesdecastelbajac.com) – Design by [Jean-Philippe Bretin](https://jeanphilippebretin.fr). Code by F451.
 - [Festival Parallèle 12](https://festival12.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451.
