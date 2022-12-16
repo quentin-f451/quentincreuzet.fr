@@ -9,11 +9,15 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## On the web
 
+- [F451 Raffle](https://f451.faith) – Design and code by F451.
 - [OtherNetwork (BETA)](https://othernetwork.io) – Design and code by F451, [Cookies](https://cookies.lol) and Geoffrey Oliaro.
+- [Festival Parallèle 13](https://festival13.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [DCA](https://dca-art.com) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451.
+- [jeudi.wang](https://jeudi.wang) – Design by [Guillaume Sbalchiero](https://www.guillaume-sbalchiero.com). Code by F451.
 - [Galerie RDV](https://galerierdv.com) – Design and code by F451.
 - [OFFSCREEN](https://offscreenparis.com) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451.
 - [DAE Code of Conduct](https://codeofconduct.designacademy.nl) – Design and code by F451.
+- [b•v-h type](https://bvhtype.com) – Design by [baldinger•vu-huu](http://www.baldingervuhuu.com). Code by F451.
 - [Concorde Architectes](https://concorde-a-u.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Taymour Grahne Projects](https://taymourgrahne.com) – Design by [baldinger•vu-huu](http://www.baldingervuhuu.com). Code by F451.
 - [Bomma Galerie](https://bomma.fr/) – Design by [Bottex Elsensohn](https://bottexelsensohn.com). Code by F451.
@@ -24,7 +28,7 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 - [Studio Mimi](https://studio-mimi.com) – Design by [République Studio](https://www.republique.studio). Code by F451.
 - [Collectiv](https://collectiv.paris) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451.
 - [Jean-Charles de Castelbajac](https://jeancharlesdecastelbajac.com) – Design by [Jean-Philippe Bretin](https://jeanphilippebretin.fr). Code by F451.
-- [Festival Parallèle 12](https://festival12.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr). Code by F451.
+- [Festival Parallèle 12](https://festival12.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [Le Labo Store](https://lelabostore.com) – Design by Le Labo Store and F451. Code by F451.
 - [IOR](https://i-o-r.online) – Design by [Area of Work](https://area-of.work). Code by F451.
 - [Nikita Narayan](https://nikita-narayan.com) – Design and code by F451.
