@@ -3,13 +3,10 @@
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
 You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _May 2023_.
 
-## News
-
-- The exhibition *If we’re happy in our dreams, does that count?* will take place from October 28th to January 8th at [ifa Galerie](https://www.ifa.de/en/exhibit/if-were-happy-in-our-dreams-does-that-count-opening) in Stuttgart, as part of the larger project [OtherNetwork](https://othernetwork.io). We designed the identity of the exhibition with Domitille Debret and the designed and developed [the website](https://othernetwork.io) of the project.
-
 ## On the web
 
 - [F451 Raffle](https://f451.faith) – Design and code by F451.
+- [Performance Sources](https://performancesources.com) – Design and code by F451.
 - [OtherNetwork (BETA)](https://othernetwork.io) – Design and code by F451, [Cookies](https://cookies.lol) and Geoffrey Oliaro.
 - [Festival Parallèle 13](https://festival13.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [DCA](https://dca-art.com) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451.
