@@ -1,7 +1,7 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _October 2023_.
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _November 2023_.
 
 ## News
 
@@ -10,7 +10,7 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 ## On the web
 
-- [Atelier Luma](https://www.atelier-luma.org) – Design and code by F451.
+- [Ficta Studio](https://studioficta.com) – Design and code by F451.
 - [F451 Raffle](https://f451.faith) – Design and code by F451.
 - [Spiaggia Libera](https://spiaggia-libera.com) – Design by [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [Performance Sources](https://performancesources.com) – Design and code by F451.
