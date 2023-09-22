@@ -1,7 +1,7 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _November 2023_.
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _January 2024_.
 
 ## News
 
@@ -12,10 +12,15 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 
 - [Ficta Studio](https://studioficta.com) – Design and code by F451.
 - [F451 Raffle](https://f451.faith) – Design and code by F451.
+- [Proof of Words](https://proof-of-words.com) – Design by Proof of Words. Code by F451.
+- [Assisted Lab](https://assistedlab.ch) – Design by [DNA](https://dna.work). Code by F451.
 - [Spiaggia Libera](https://spiaggia-libera.com) – Design by [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
+- [Non-Extractive Architecture](https://directory.nonextractivearchitecture.org) – Design and code by F451.
+- [Houses of Tove Jansson](https://housesoftovejansson.com) – Design by [The Community](https://thecommunity.io). Code by F451.
 - [Performance Sources](https://performancesources.com) – Design and code by F451.
 - [OtherNetwork](https://othernetwork.io) – Design and code by F451, [Cookies](https://cookies.lol) and Geoffrey Oliaro.
 - [Ici l’onde](https://icilonde.io) – Design by [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
+- [Voyageur Stays](https://voyageurstays.com) – Design by [Studio Ward Goes](https://wardgoes.com). Code by F451.
 - [Festival Parallèle 13](https://festival13.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [DCA](https://dca-art.com) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451.
 - [jeudi.wang](https://jeudi.wang) – Design by [Guillaume Sbalchiero](https://www.guillaume-sbalchiero.com). Code by F451.
