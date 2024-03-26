@@ -1,19 +1,21 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _May 2024_.
+You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _July 2024_.
 
 ## On the web
 
+- [Cadet Capela](https://cadetcapela.com) – Design and code by F451.
+- [Le Septantecinq](https://leseptantecinq.be) – Design and code by F451.
+- [Normal Studio](https://normalstudio.fr) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Ficta Studio](https://studioficta.com) – Design and code by F451.
+- [Assisted Lab](https://assistedlab.ch) – Design by [DNA](https://dna.work). Code by F451.
 - [Festival Parallèle 14](https://festival14.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [OtherNetwork](https://othernetwork.io) – Design and code by F451, [Cookies](https://cookies.lol) and Geoffrey Oliaro.
-- [Eugène Architects](https://eugenearchitectes.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
+- [Eugène Architectes](https://eugenearchitectes.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Swiss Dance Days](https://swissdancedays.ch) – Design by [DNA](https://dna.work). Code by F451.
 - [F451 Raffle](https://f451.faith) – Design and code by F451.
 - [Proof of Words](https://proof-of-words.com) – Design by Proof of Words. Code by F451.
-- [Assisted Lab](https://assistedlab.ch) – Design by [DNA](https://dna.work). Code by F451.
-- [Normal Studio](https://normalstudio.fr) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Spiaggia Libera](https://spiaggia-libera.com) – Design by [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [Non-Extractive Architecture](https://directory.nonextractivearchitecture.org) – Design and code by F451.
 - [Houses of Tove Jansson](https://housesoftovejansson.com) – Design by [The Community](https://thecommunity.io). Code by F451.
