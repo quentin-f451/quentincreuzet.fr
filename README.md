@@ -10,11 +10,13 @@ You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graph
 - [Normal Studio](https://normalstudio.fr) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Ficta Studio](https://studioficta.com) – Design and code by F451.
 - [Assisted Lab](https://assistedlab.ch) – Design by [DNA](https://dna.work). Code by F451.
+- [ITEM Amsterdam](https://item-amsterdam.nl) – Design by [Studio Ward Goes](https://wardgoes.com) and F451. Code by F451.
 - [Festival Parallèle 14](https://festival14.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [OtherNetwork](https://othernetwork.io) – Design and code by F451, [Cookies](https://cookies.lol) and Geoffrey Oliaro.
 - [Eugène Architectes](https://eugenearchitectes.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Swiss Dance Days](https://swissdancedays.ch) – Design by [DNA](https://dna.work). Code by F451.
 - [F451 Raffle](https://f451.faith) – Design and code by F451.
+- [Laurids Gallée](https://lauridsgallee.com) – Design by [Studio Ward Goes](https://wardgoes.com). Code by F451.
 - [Proof of Words](https://proof-of-words.com) – Design by Proof of Words. Code by F451.
 - [Spiaggia Libera](https://spiaggia-libera.com) – Design by [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [Non-Extractive Architecture](https://directory.nonextractivearchitecture.org) – Design and code by F451.
