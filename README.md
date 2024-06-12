@@ -1,7 +1,7 @@
 # Quentin Creuzet
 
-I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.faith) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
-You can [contact me](mailto:quentin@f451.faith) for any kind of coding and graphic design project. Next availability: _July 2024_.
+I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.studio) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
+You can [contact me](mailto:quentin@f451.studio) for any kind of coding and graphic design project. Next availability: _October 2024_.
 
 ## On the web
 
