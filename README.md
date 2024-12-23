@@ -1,17 +1,29 @@
 # Quentin Creuzet
 
 I’m Quentin Creuzet and I’m a French designer/developer based on the internet. I’m working for various freelance projects and try to figure out what could be a website as half of [F451](https://f451.studio) with [Domitille Debret](http://domitilledebret.net). I teach coding at the Graphic Design Department of the KABK (Royal Academy of Art) in The Hague (NL).
-You can [contact me](mailto:quentin@f451.studio) for any kind of coding and graphic design project. Next availability: _October 2024_.
+You can [contact me](mailto:quentin@f451.studio) for any kind of coding and graphic design project. Next availability: _April 2025_.
+
+## News
+
+- On December 6th and 7th, we’re headed to the [Festival Iterations](https://iterations.online) in Den Bosch (NL) to run a workshop and show off our work. You can check out our presentation called Control Center [right here](https://www.youtube.com/live/VhqmF4PNIfc?si=PfK1ChJkkm0OzQeH&t=3530).
 
 ## On the web
 
+- [Conditions of a Necessity](https://conditions-of-a-necessity.net) – Design and code by F451.
+- [Festival Parallèle 15](https://festival15.plateformeparallele.com) – Design by [Manon Bruet](https://www.instagram.com/manon_bruet) and [Julia Andréone](https://juliaandreone.com). Code by F451.
+- [Dim Corners](https://dimcorners.othernetwork.io) – Design and code by F451.
+- [Atelier Pierre Pierre](https://pierre-pierre.com) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451.
+- [Tectoniques](https://tectoniques.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
+- [Julia Andréone](https://juliaandreone.com) – Design by [Manon Bruet](https://www.instagram.com/manon_bruet) and [Thibault Mesnil](https://www.instagram.com/legarconalagraveuselaser). Code by F451.
+- [Instruments](https://instruments.supply) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Cadet Capela](https://cadetcapela.com) – Design and code by F451.
 - [Le Septantecinq](https://leseptantecinq.be) – Design and code by F451.
 - [Normal Studio](https://normalstudio.fr) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Ficta Studio](https://studioficta.com) – Design and code by F451.
+- [Atelier MOEX](https://ateliermoex.fr) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Assisted Lab](https://assistedlab.ch) – Design by [DNA](https://dna.work). Code by F451.
 - [ITEM Amsterdam](https://item-amsterdam.nl) – Design by [Studio Ward Goes](https://wardgoes.com) and F451. Code by F451.
-- [Festival Parallèle 14](https://festival14.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
+- [Festival Parallèle 14](https://festival14.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) and [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [OtherNetwork](https://othernetwork.io) – Design and code by F451, [Cookies](https://cookies.lol) and Geoffrey Oliaro.
 - [Eugène Architectes](https://eugenearchitectes.com) – Design by [Building Paris](http://buildingparis.fr). Code by F451.
 - [Swiss Dance Days](https://swissdancedays.ch) – Design by [DNA](https://dna.work). Code by F451.
@@ -24,7 +36,7 @@ You can [contact me](mailto:quentin@f451.studio) for any kind of coding and grap
 - [Performance Sources](https://performancesources.com) – Design and code by F451.
 - [Ici l’onde](https://icilonde.io) – Design by [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [Voyageur Stays](https://voyageurstays.com) – Design by [Studio Ward Goes](https://wardgoes.com). Code by F451.
-- [Festival Parallèle 13](https://festival13.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
+- [Festival Parallèle 13](https://festival13.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) and [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [DCA](https://dca-art.com) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451.
 - [jeudi.wang](https://jeudi.wang) – Design by [Guillaume Sbalchiero](https://www.guillaume-sbalchiero.com). Code by F451.
 - [Galerie RDV](https://galerierdv.com) – Design and code by F451.
@@ -41,7 +53,7 @@ You can [contact me](mailto:quentin@f451.studio) for any kind of coding and grap
 - [Studio Mimi](https://studio-mimi.com) – Design by [République Studio](https://www.republique.studio). Code by F451.
 - [Collectiv](https://collectiv.paris) – Design by [Atelier Pierre Pierre](http://pierre-pierre.com). Code by F451.
 - [Jean-Charles de Castelbajac](https://jeancharlesdecastelbajac.com) – Design by [Jean-Philippe Bretin](https://jeanphilippebretin.fr). Code by F451.
-- [Festival Parallèle 12](https://festival12.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) et [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
+- [Festival Parallèle 12](https://festival12.plateformeparallele.com) – Design by [Spassky Fischer](http://spassky-fischer.fr) and [Manon Bruet](https://www.instagram.com/manon_bruet). Code by F451.
 - [Le Labo Store](https://lelabostore.com) – Design by Le Labo Store and F451. Code by F451.
 - [IOR](https://i-o-r.online) – Design by [Area of Work](https://area-of.work). Code by F451.
 - [Nikita Narayan](https://nikita-narayan.com) – Design and code by F451.
